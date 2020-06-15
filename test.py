@@ -1,2 +1,2 @@
-print("jei")
-print("hei")
+print("hei1")
+print("hei2")
